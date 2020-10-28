@@ -18,7 +18,7 @@ A mini-workshop on the basics of GraphQL
 
 ## Resources
 
-[Click to download slides in PDF format](https://github.com/martincartledge/now_this_is_graphql/slides/now_this_is_graphql.pdf)
+[Click to download slides in PDF format](https://github.com/martincartledge/now_this_is_graphql/blob/master/slides/now_this_is_graphql.pdf)
 
 ## More reading
 
