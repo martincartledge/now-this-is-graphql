@@ -1,0 +1,17 @@
+{
+  "name": "now_this_is_graphql",
+  "version": "1.0.0",
+  "description": "A graphql presentation",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js -e ejs,js,css,html,jpg,png,scss"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.18.2",
+    "graphql": "^15.3.0",
+    "nodemon": "^2.0.6"
+  }
+}

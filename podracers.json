@@ -1,0 +1,208 @@
+{
+  "podracers": [
+    {
+      "id": "1",
+      "name": "Anakin Skywalker",
+      "location": "tattooine",
+      "height": "172",
+      "mass": "77",
+      "hair_color": "brown",
+      "skin_color": "fair",
+      "eye_color": "blue",
+      "birth_year": "19BBY",
+      "gender": "male",
+      "podracer_stats": {
+        "length": "8",
+        "top_speed": "276",
+        "average_fuel": "29"
+      },
+      "podrace_wins": [{ "title": "The Boonta Classic", "length": "167" }],
+      "homeworld": "http://swapi.dev/api/planets/1/",
+      "films": [
+        "http://swapi.dev/api/films/1/",
+        "http://swapi.dev/api/films/2/",
+        "http://swapi.dev/api/films/3/",
+        "http://swapi.dev/api/films/6/"
+      ],
+      "species": "human",
+      "vehicles": [
+        "http://swapi.dev/api/vehicles/14/",
+        "http://swapi.dev/api/vehicles/30/"
+      ],
+      "starships": [
+        "http://swapi.dev/api/starships/12/",
+        "http://swapi.dev/api/starships/22/"
+      ],
+      "created": "2014-12-09T13:50:51.644000Z",
+      "edited": "2014-12-20T21:17:56.891000Z",
+      "url": "http://swapi.dev/api/people/1/"
+    },
+    {
+      "id": "2",
+      "name": "Sebulba",
+      "location": "malastare",
+      "height": "132",
+      "mass": "36",
+      "hair_color": "n/a",
+      "skin_color": "tan",
+      "eye_color": "yellow",
+      "birth_year": "112BBY",
+      "gender": "male",
+      "podracer_stats": {
+        "length": "11",
+        "top_speed": "254",
+        "average_fuel": "18"
+      },
+      "podrace_wins": [
+        { "title": "The Boonta Classic", "length": "167" },
+        { "title": "Malastare 100", "length": "100" },
+        { "title": "Sunken City", "length": "750" },
+        { "title": "Baroo Coast", "length": "453" }
+      ],
+      "homeworld": "http://swapi.dev/api/planets/1/",
+      "films": ["http://swapi.dev/api/films/1/"],
+      "species": "dug",
+      "vehicles": [],
+      "starships": [],
+      "created": "2014-12-10T15:10:51.357000Z",
+      "edited": "2014-12-20T21:17:50.309000Z",
+      "url": "http://swapi.dev/api/people/2/"
+    },
+    {
+      "id": "3",
+      "name": "Ben Quadinaros",
+      "location": "tund system",
+      "height": "96",
+      "mass": "27",
+      "hair_color": "n/a",
+      "skin_color": "white, green",
+      "eye_color": "yellow",
+      "birth_year": "33BBY",
+      "gender": "male",
+      "podracer_stats": {
+        "length": "5",
+        "top_speed": "185",
+        "average_fuel": "24"
+      },
+      "podrace_wins": [
+        { "title": "Howler Gorge", "length": "97" },
+        { "title": "Andobi Mountain Run", "length": "215" }
+      ],
+      "homeworld": "http://swapi.dev/api/planets/8/",
+      "films": ["http://swapi.dev/api/films/1/"],
+      "species": "Toong",
+      "vehicles": [],
+      "starships": [],
+      "created": "2014-12-10T15:11:50.376000Z",
+      "edited": "2014-12-20T21:17:50.311000Z",
+      "url": "http://swapi.dev/api/people/3/"
+    },
+    {
+      "id": "4",
+      "name": "Ratts Tyerell",
+      "location": "aleen",
+      "height": "117",
+      "mass": "154",
+      "hair_color": "none",
+      "skin_color": "blue",
+      "eye_color": "green",
+      "birth_year": "41.9BBY",
+      "gender": "male",
+      "podracer_stats": {
+        "length": "6",
+        "top_speed": "234",
+        "average_fuel": "33"
+      },
+      "podrace_wins": [{ "title": "Bumpy's Breakers", "length": "78" }],
+      "homeworld": "http://swapi.dev/api/planets/1/",
+      "films": ["http://swapi.dev/api/films/1/"],
+      "species": "Aleena",
+      "vehicles": [],
+      "starships": ["http://swapi.dev/api/starships/13/"],
+      "created": "2014-12-10T15:18:20.704000Z",
+      "edited": "2014-12-20T21:17:50.313000Z",
+      "url": "http://swapi.dev/api/people/4/"
+    },
+    {
+      "id": "5",
+      "name": "Ody Mandrell",
+      "location": "tattooine",
+      "height": "181",
+      "mass": "142",
+      "hair_color": "n/a",
+      "skin_color": "blue",
+      "eye_color": "brown",
+      "birth_year": "19BBY",
+      "gender": "male",
+      "podracer_stats": {
+        "length": "7",
+        "top_speed": "248",
+        "average_fuel": "26"
+      },
+      "podrace_wins": [{ "title": "Sunken City", "length": "750" }],
+      "homeworld": "http://swapi.dev/api/planets/2/",
+      "films": ["http://swapi.dev/api/films/1/"],
+      "species": "Er'Kit",
+      "vehicles": ["http://swapi.dev/api/vehicles/30/"],
+      "starships": [],
+      "created": "2014-12-10T15:20:09.791000Z",
+      "edited": "2014-12-20T21:17:50.315000Z",
+      "url": "http://swapi.dev/api/people/5/"
+    },
+    {
+      "id": "6",
+      "name": "Teemto Pagalies",
+      "location": "moonus mandel",
+      "height": "124",
+      "mass": "120",
+      "hair_color": "n/a",
+      "skin_color": "orange, brown, white",
+      "eye_color": "n/a",
+      "birth_year": "52BBY",
+      "gender": "male",
+      "podracer_stats": {
+        "length": "4",
+        "top_speed": "224",
+        "average_fuel": "17"
+      },
+      "podrace_wins": [],
+      "homeworld": "http://swapi.dev/api/planets/1/",
+      "films": ["http://swapi.dev/api/films/1/"],
+      "species": "Veknoid",
+      "vehicles": [],
+      "starships": [],
+      "created": "2014-12-10T15:52:14.024000Z",
+      "edited": "2014-12-20T21:17:50.317000Z",
+      "url": "http://swapi.dev/api/people/6/"
+    },
+    {
+      "id": "7",
+      "name": "Mawhonic",
+      "location": "hok",
+      "height": "122",
+      "mass": "135",
+      "hair_color": "n/a",
+      "skin_color": "orange",
+      "eye_color": "black",
+      "birth_year": "47BBY",
+      "gender": "male",
+      "podracer_stats": {
+        "length": "7",
+        "top_speed": "223",
+        "average_fuel": "30"
+      },
+      "podrace_wins": [
+        { "title": "Sunken City", "length": "750" },
+        { "title": "Grabvine Gateway", "length": "145" }
+      ],
+      "homeworld": "http://swapi.dev/api/planets/1/",
+      "films": ["http://swapi.dev/api/films/1/"],
+      "species": "gran",
+      "vehicles": [],
+      "starships": [],
+      "created": "2014-12-10T15:53:41.121000Z",
+      "edited": "2014-12-20T21:17:50.319000Z",
+      "url": "http://swapi.dev/api/people/7/"
+    }
+  ]
+}
