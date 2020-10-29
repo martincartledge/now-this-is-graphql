@@ -14,11 +14,11 @@ A mini-workshop on the basics of GraphQL
 - `cd now_this_is_graphql/`
 - Open code in IDE of your choice
 - Inside your terminal run `npm install` and then `npm start`
-- Navigate to `localhost:4000` in your broswer (note: it will _not_ work yet, that is intentional)
+- Navigate to `localhost:4000` in your browser (note: it will _not_ work yet, that is intentional)
 
 ## Important notes
 
-For the best experience using GraphQL syntax and features, it is recommended that you install the GraphQL exstension in your IDE.
+For the best experience using GraphQL syntax and features, it is recommended that you install the GraphQL extension in your IDE.
 
 Click to download for [VSCode](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 
