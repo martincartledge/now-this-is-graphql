@@ -18,7 +18,7 @@ A mini-workshop on the basics of GraphQL
 
 ## Important notes
 
-For the best experience using GraphQL syntax and features, it is recemended that you install the GraphQL exstension in your IDE.
+For the best experience using GraphQL syntax and features, it is recommended that you install the GraphQL exstension in your IDE.
 
 Click to download for [VSCode](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 
